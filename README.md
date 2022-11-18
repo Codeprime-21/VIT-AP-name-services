@@ -14,6 +14,13 @@ I have essentially done and deployed it on testnets cuz I don't have funds to de
 Here's the actual project functional link:
 [click here!](https://domain-starter-project-2.prashanthgopala.repl.co/)
 
+Here are some cool images from this project:
+
+![image](https://user-images.githubusercontent.com/72990962/202750579-521aa0f4-f342-403c-b4cf-c28500b91e99.png)
+
+![image](https://user-images.githubusercontent.com/72990962/202750672-3bd9a38d-b1a4-42f8-b26a-edab0ba03e15.png)
+
+
 I would be more than happy if you guys can contribute to this project by providing some serious functionalities, so that we collectively make this project an official one-stop decentralized website for literally every college. 
 
 Good luck out there and Cheers!
